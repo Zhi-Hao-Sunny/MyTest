@@ -22,5 +22,7 @@ public class Role {
 		this.name = name;
 	}
 	
-	
+	public static void main(String[] args) {
+		System.out.println("Inte");
+	}
 }
